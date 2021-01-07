@@ -1,5 +1,5 @@
 # Persona-Maker
-## Classification model to assign persona and hierarchy based on job title of data professional
+## Classification model to assign persona and hierarchy based on the job title of a data professional
 
 **Why this project?**
 B2B technology marketers need to segment the leads/contacts in their sales databases into the right personas and hierarchy (decision maker vs line of business practitioner) based on their **job titles**. They need the segmentation to feed email lists, run analyses, set targetign criteria. This helps send relevant messages to users and hence improve customer satisfaction, and prevents uninentional spam. Business analysts can use personas as filtering criteria to study important customer trends.
