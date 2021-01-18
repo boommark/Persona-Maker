@@ -8,7 +8,7 @@ B2B technology marketers need to segment the leads in their sales databases into
 1. Big data, machine learning, AI, data science professions have proliferated in recent times. Different job titles can mean very similar work responsibilities, and can be clustered. For example, 'data scientist', 'deep learning specialist', 'machine learning researcher' all focus on model building/optimization and can be classified as 'data scientists'.
 2. Most commercial list providers do not have the tools to map job titles to personas or hierarchy from their databases. Those who do offer such services often have very poor accuracy.
 3. Sales and marketing databases get records from many sources - manual entries by sales reps, list purchases from market intelligence firms, titles filled out by individuals when they submit forms to download whitepapers or watch webinars, and so on. Data quality is bad due to data entry errors - misspellings, incomplete job titles, inaccurate mappings.
-4. Due to the above reason, there is massive sprawl, even in smaller databases. For example, an empoyer of mine had 500K leads in their database who had 93K distinct job titles!
+4. Due to the above reason, there is massive sprawl, even in smaller databases. For example, an employer of mine had 500K leads in their database who had 93K distinct job titles!
 5. Sales and marketing teams often hire contractors and spend hours of manual effort for data correction. This is an expensive, time consuming and error-prone approach
 
 **Solution**
